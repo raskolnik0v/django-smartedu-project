@@ -79,4 +79,7 @@ I have done various projects with the programming language python. Now I continu
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div>
+
+![snake svg](https://github.com/raskolnik0v/raskolnik0v/blob/output/github-contribution-grid-snake.svg)
+
